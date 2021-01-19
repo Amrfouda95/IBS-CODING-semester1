@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+[*]Walk the dog
+[*]
+
+[*]Do homework
+
+Apple
+Wood
+Buy milk-auauaua
+-aususudahadwcwdwwdfwefwdcde
+-ayesyesyes
+-ayeaidis
+-ahaaahaaahaaaaaaa
+=======
+Walk the dog
+Do homework
+Apple
+Wood
+Buy milk
+>>>>>>> origin/main
